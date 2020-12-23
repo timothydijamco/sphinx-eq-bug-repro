@@ -6,15 +6,9 @@
 Welcome to Sphinx eq bug repro's documentation!
 ===============================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+.. currentmodule:: mymodule
 
+.. autosummary::
+   :toctree: generated/
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   foo
